@@ -89,8 +89,6 @@ Despite some monthly dips, the overall trend is consistently upward, signaling s
 
 ![dashboard](![Gamezone Sales Dashboard_page-0001](https://github.com/user-attachments/assets/e5edf7cf-a799-460c-8f53-f61e54277bf0)
 ![Gamezone Sales Dashboard_page-0002](https://github.com/user-attachments/assets/acb043f1-578d-42a9-8014-7e35d9ec6191)
-![Marketing projek_page-0003](https://github.com/user-attachments/assets/29bb73b4-a3cc-494f-b458-e146ba7c42f8)
-![Marketing projek_page-0004](https://github.com/user-attachments/assets/bca667b6-0d71-4252-ac95-8f92944708ac)
 )  
 
 
